@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">Demo Project</string>
-    <string name="hello_world">Demo Project!</string>
-    <string name="menu_settings">Demo Project</string>
-    <string name="title_activity_main">Demo Project</string>
-
-</resources>
