@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mysvn/myrepo/!svn/ver/204/ResearchAndroidCameraVideo/branches/AndroidInoxNdkAssignment/jni
+END
+yuv-decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mysvn/myrepo/!svn/ver/205/ResearchAndroidCameraVideo/branches/AndroidInoxNdkAssignment/jni/yuv-decoder.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mysvn/myrepo/!svn/ver/204/ResearchAndroidCameraVideo/branches/AndroidInoxNdkAssignment/jni/Android.mk
+END
+hello-jni.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mysvn/myrepo/!svn/ver/205/ResearchAndroidCameraVideo/branches/AndroidInoxNdkAssignment/jni/hello-jni.c
+END

@@ -1,0 +1,55 @@
+10
+
+dir
+195
+http://localhost/mysvn/myrepo/ResearchAndroidCameraVideo/branches/AndroidInoxNdkAssignment/res
+http://localhost/mysvn/myrepo
+
+
+
+2013-01-23T10:49:50.414937Z
+190
+shree
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b7692606-d7e8-41c5-b818-d42a062668eb
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+
